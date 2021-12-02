@@ -26,3 +26,5 @@ A lo largo de esta práctica veremos como aplicar distintas técnicas no supervi
 3. Aplicación: identificación de puntos de interés turísticos.
 
 *La solución es el archivo [unsupervised_methods.ipynb](https://github.com/gpbonillas/data-mining-python/blob/main/unsupervised_methods.ipynb)*. *Se han usado los datasets de la librería **scikit-learn**: [make_blobs](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_blobs.html#sklearn.datasets.make_blobs), [make_moons](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_moons.html#sklearn.datasets.make_moons) y [make_circles](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_circles.html#sklearn.datasets.make_circles)*
+
+![scikit-learn datasets](https://github.com/gpbonillas/data-mining-python/blob/main/images/pec2.png)
